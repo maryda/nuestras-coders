@@ -1,0 +1,75 @@
+body{
+	margin:0;
+	padding: 0;
+
+}
+
+div#body{
+	margin: auto;
+	margin-top: 30px;
+	width: 700px;
+	height: 450px;
+	border: 1px solid width;
+}
+
+div#izquierda{
+	float: left;
+	margin-right: 20px;
+
+	
+}
+
+p{
+	position: absolute;
+	color: yellow;
+	top: 50px;
+	left: 400px;
+}
+
+
+div#centro{
+	float: left;
+	margin-right: 20px;
+}
+
+
+div#derecha{
+	float: left;
+	margin-right: 20px;
+	}
+
+
+	div#izquierda1{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	
+}
+
+
+div#centro1{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+
+div#derecha1{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	}
+
+
+
+
+
+h3{
+	margin-left: 350px;
+
+}
+
+
+
+
+
